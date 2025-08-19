@@ -4,7 +4,7 @@
 
 ---
 
-### About This Repository
+### My Problem Solving Journey
 
 I started my DSA journey with C++ in November 2023 and have solved **558+ problems** across Codeforces, CodeChef, LeetCode, Vjudge, CSES, and other platforms.  
 Being part of **Phitron’s XPSC (Batch-4)** helped me stay consistent through contests, reviews, and upsolving.  
@@ -36,7 +36,7 @@ This repository brings together my **problem-solving stats — solve counts, rat
       <td><span style="font-size:110%"><b>CodeChef</b></span></td>
       <td><span style="font-size:110%"><a href="https://www.codechef.com/users/alif_222">alif_222</a></span></td>
       <td align="right"><span style="font-size:110%"><b>133</b></span></td>
-      <td><span style="font-size:110%"><code><span style="color:gold">Two Star ★★</span></code> (Max: <code>1407</code>)</span></td>
+      <td><span style="font-size:110%"><code><span style="color:#FFD700">Two Star ★★</span></code> (Max: <code>1407</code>)</span></td>
     </tr>
     <tr>
       <td><span style="font-size:110%"><b>LeetCode</b></span></td>
@@ -71,7 +71,7 @@ This repository brings together my **problem-solving stats — solve counts, rat
   </tbody>
 </table>
 
-_Last updated: **August 19, 2025**_
+`Last updated: August 19, 2025`
 
 </div>
 

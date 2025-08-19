@@ -52,20 +52,20 @@ This repository brings together my **problem-solving stats — solve counts, rat
     </tr>
     <tr>
       <td><span style="font-size:120%"><b>CSES</b></span></td>
-      <td><span style="font-size:120%"><a href="https://cses.fi/user/245402">profile</a></span></td>
+      <td><span style="font-size:120%"><a href="https://cses.fi/user/223072">alif_222</a></span></td>
       <td align="right"><span style="font-size:120%"><b>35</b></span></td>
       <td><span style="font-size:120%"></span></td>
     </tr>
     <tr>
       <td><span style="font-size:120%"><b>Others</b></span></td>
       <td><span style="font-size:120%"></span></td>
-      <td align="right"><span style="font-size:120%"><b>22+</b></span></td>
+      <td align="right"><span style="font-size:120%"><b>34+</b></span></td>
       <td><span style="font-size:120%"></span></td>
     </tr>
     <tr>
       <td><span style="font-size:120%"><b>Total</b></span></td>
       <td><span style="font-size:120%"></span></td>
-      <td align="right"><span style="font-size:120%"><b>558</b></span></td>
+      <td align="right"><span style="font-size:120%"><b>570</b></span></td>
       <td><span style="font-size:120%"></span></td>
     </tr>
   </tbody>

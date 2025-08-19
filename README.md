@@ -3,7 +3,7 @@
 Competitive Programming • DSA in C++ • Codeforces | CodeChef | LeetCode | Vjudge | CSES
 
 <!-- Intro (replace with Semi-formal if you prefer) -->
-I began focused Data Structures & Algorithms (C++) practice in Nov 2023 and have since solved 558 problems across Codeforces, CodeChef, LeetCode, Vjudge, and CSES. As a member of Phitron’s XPSC (Batch-4), I built consistent habits through contests, reviews, and upsolving. This repository consolidates my competitive-programming statistics—solve counts, ratings, and profiles—for quick, transparent evaluation.
+I started my DSA journey with C++ from November 2023 and have solved 558+ problems across Codeforces, CodeChef, LeetCode, Vjudge, CSES and other platforms. Being part of Phitron’s XPSC (Batch-4) helped me stay consistent through contests, reviews, and upsolving. This repository brings together my problem-solving stats — solve counts, ratings, and profiles — in one place for easy review.
 
 ---
 

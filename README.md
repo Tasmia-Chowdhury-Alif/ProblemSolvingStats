@@ -19,54 +19,54 @@ This repository brings together my **problem-solving stats — solve counts, rat
 <table>
   <thead>
     <tr>
-      <th align="left"><span style="font-size:110%">Platform</span></th>
-      <th align="left"><span style="font-size:110%">Profile</span></th>
-      <th align="right"><span style="font-size:110%">Solved</span></th>
-      <th align="left"><span style="font-size:110%">Best Rating / Rank</span></th>
+      <th align="left"><span style="font-size:120%">Platform</span></th>
+      <th align="left"><span style="font-size:120%">Profile</span></th>
+      <th align="right"><span style="font-size:120%">Solved</span></th>
+      <th align="left"><span style="font-size:120%">Best Rating / Rank</span></th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><span style="font-size:110%"><b>Codeforces</b></span></td>
-      <td><span style="font-size:110%"><a href="https://codeforces.com/profile/alif_222">alif_222</a></span></td>
-      <td align="right"><span style="font-size:110%"><b>217</b></span></td>
-      <td><span style="font-size:110%">Highest Rating: <code>997</code></span></td>
+      <td><span style="font-size:120%"><b>Codeforces</b></span></td>
+      <td><span style="font-size:120%"><a href="https://codeforces.com/profile/alif_222">alif_222</a></span></td>
+      <td align="right"><span style="font-size:120%"><b>217</b></span></td>
+      <td><span style="font-size:120%">Highest Rating: 997</span></td>
     </tr>
     <tr>
-      <td><span style="font-size:110%"><b>CodeChef</b></span></td>
-      <td><span style="font-size:110%"><a href="https://www.codechef.com/users/alif_222">alif_222</a></span></td>
-      <td align="right"><span style="font-size:110%"><b>133</b></span></td>
-      <td><span style="font-size:110%"><code><span style="color:#FFD700">Two Star ★★</span></code> (Max: <code>1407</code>)</span></td>
+      <td><span style="font-size:120%"><b>CodeChef</b></span></td>
+      <td><span style="font-size:120%"><a href="https://www.codechef.com/users/alif_222">alif_222</a></span></td>
+      <td align="right"><span style="font-size:120%"><b>133</b></span></td>
+      <td><span style="font-size:120%"><code><span style="color:#FFD700">2 Star ★★</span></code> (Max: <code>1407</code>)</span></td>
     </tr>
     <tr>
-      <td><span style="font-size:110%"><b>LeetCode</b></span></td>
-      <td><span style="font-size:110%"><a href="https://leetcode.com/u/tasmiachowdhuryalif222/">tasmiachowdhuryalif222</a></span></td>
-      <td align="right"><span style="font-size:110%"><b>42</b></span></td>
-      <td><span style="font-size:110%">—</span></td>
+      <td><span style="font-size:120%"><b>LeetCode</b></span></td>
+      <td><span style="font-size:120%"><a href="https://leetcode.com/u/tasmiachowdhuryalif222/">tasmiachowdhuryalif222</a></span></td>
+      <td align="right"><span style="font-size:120%"><b>42</b></span></td>
+      <td><span style="font-size:120%"></span></td>
     </tr>
     <tr>
-      <td><span style="font-size:110%"><b>Vjudge</b></span></td>
-      <td><span style="font-size:110%"><a href="https://vjudge.net/user/alif_222">alif_222</a></span></td>
-      <td align="right"><span style="font-size:110%"><b>109</b></span></td>
-      <td><span style="font-size:110%">—</span></td>
+      <td><span style="font-size:120%"><b>Vjudge</b></span></td>
+      <td><span style="font-size:120%"><a href="https://vjudge.net/user/alif_222">alif_222</a></span></td>
+      <td align="right"><span style="font-size:120%"><b>109</b></span></td>
+      <td><span style="font-size:120%"></span></td>
     </tr>
     <tr>
-      <td><span style="font-size:110%"><b>CSES</b></span></td>
-      <td><span style="font-size:110%"><a href="https://cses.fi/user/245402">profile</a></span></td>
-      <td align="right"><span style="font-size:110%"><b>35</b></span></td>
-      <td><span style="font-size:110%">—</span></td>
+      <td><span style="font-size:120%"><b>CSES</b></span></td>
+      <td><span style="font-size:120%"><a href="https://cses.fi/user/245402">profile</a></span></td>
+      <td align="right"><span style="font-size:120%"><b>35</b></span></td>
+      <td><span style="font-size:120%"></span></td>
     </tr>
     <tr>
-      <td><span style="font-size:110%"><b>Others</b></span></td>
-      <td><span style="font-size:110%">—</span></td>
-      <td align="right"><span style="font-size:110%"><b>22+</b></span></td>
-      <td><span style="font-size:110%">—</span></td>
+      <td><span style="font-size:120%"><b>Others</b></span></td>
+      <td><span style="font-size:120%"></span></td>
+      <td align="right"><span style="font-size:120%"><b>22+</b></span></td>
+      <td><span style="font-size:120%"></span></td>
     </tr>
     <tr>
-      <td><span style="font-size:110%"><b>Total</b></span></td>
-      <td><span style="font-size:110%">—</span></td>
-      <td align="right"><span style="font-size:110%"><b>558</b></span></td>
-      <td><span style="font-size:110%">—</span></td>
+      <td><span style="font-size:120%"><b>Total</b></span></td>
+      <td><span style="font-size:120%"></span></td>
+      <td align="right"><span style="font-size:120%"><b>558</b></span></td>
+      <td><span style="font-size:120%"></span></td>
     </tr>
   </tbody>
 </table>

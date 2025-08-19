@@ -65,7 +65,7 @@ This repository brings together my **problem-solving stats — solve counts, rat
     <tr>
       <td><span style="font-size:120%"><b>Total</b></span></td>
       <td><span style="font-size:120%"></span></td>
-      <td align="right"><span style="font-size:120%"><b>570</b></span></td>
+      <td align="right"><span style="font-size:120%"><b>570+</b></span></td>
       <td><span style="font-size:120%"></span></td>
     </tr>
   </tbody>

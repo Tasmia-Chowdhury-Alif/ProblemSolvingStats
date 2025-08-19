@@ -13,18 +13,63 @@ This repository brings together my **problem-solving stats — solve counts, rat
 ---
 
 <div align="center" style="background-color:#f6f8fa; padding: 15px; border-radius: 10px;">
-  
+
 ### Problem Solving Stats
 
-| Platform    | Profile                                                                 | Solved | Best Rating / Rank |
-|------------|--------------------------------------------------------------------------|-------:|--------------------|
-| **Codeforces** | [alif_222](https://codeforces.com/profile/alif_222)                      | **217** | Highest Rating: `997` |
-| **CodeChef**   | [alif_222](https://www.codechef.com/users/alif_222)                      | **133** | `Two Star ★★` (Max: `1407`) |
-| **LeetCode**   | [tasmiachowdhuryalif222](https://leetcode.com/u/tasmiachowdhuryalif222/) | **42**  | — |
-| **Vjudge**     | [alif_222](https://vjudge.net/user/alif_222)                             | **109** | — |
-| **CSES**       | [profile](https://cses.fi/user/245402)                                   | **35**  | — |
-| **Others**     | —                                                                         | **22+** | — |
-| **Total**      | —                                                                         | **558** | — |
+<table>
+  <thead>
+    <tr>
+      <th align="left"><span style="font-size:110%">Platform</span></th>
+      <th align="left"><span style="font-size:110%">Profile</span></th>
+      <th align="right"><span style="font-size:110%">Solved</span></th>
+      <th align="left"><span style="font-size:110%">Best Rating / Rank</span></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span style="font-size:110%"><b>Codeforces</b></span></td>
+      <td><span style="font-size:110%"><a href="https://codeforces.com/profile/alif_222">alif_222</a></span></td>
+      <td align="right"><span style="font-size:110%"><b>217</b></span></td>
+      <td><span style="font-size:110%">Highest Rating: <code>997</code></span></td>
+    </tr>
+    <tr>
+      <td><span style="font-size:110%"><b>CodeChef</b></span></td>
+      <td><span style="font-size:110%"><a href="https://www.codechef.com/users/alif_222">alif_222</a></span></td>
+      <td align="right"><span style="font-size:110%"><b>133</b></span></td>
+      <td><span style="font-size:110%"><code><span style="color:gold">Two Star ★★</span></code> (Max: <code>1407</code>)</span></td>
+    </tr>
+    <tr>
+      <td><span style="font-size:110%"><b>LeetCode</b></span></td>
+      <td><span style="font-size:110%"><a href="https://leetcode.com/u/tasmiachowdhuryalif222/">tasmiachowdhuryalif222</a></span></td>
+      <td align="right"><span style="font-size:110%"><b>42</b></span></td>
+      <td><span style="font-size:110%">—</span></td>
+    </tr>
+    <tr>
+      <td><span style="font-size:110%"><b>Vjudge</b></span></td>
+      <td><span style="font-size:110%"><a href="https://vjudge.net/user/alif_222">alif_222</a></span></td>
+      <td align="right"><span style="font-size:110%"><b>109</b></span></td>
+      <td><span style="font-size:110%">—</span></td>
+    </tr>
+    <tr>
+      <td><span style="font-size:110%"><b>CSES</b></span></td>
+      <td><span style="font-size:110%"><a href="https://cses.fi/user/245402">profile</a></span></td>
+      <td align="right"><span style="font-size:110%"><b>35</b></span></td>
+      <td><span style="font-size:110%">—</span></td>
+    </tr>
+    <tr>
+      <td><span style="font-size:110%"><b>Others</b></span></td>
+      <td><span style="font-size:110%">—</span></td>
+      <td align="right"><span style="font-size:110%"><b>22+</b></span></td>
+      <td><span style="font-size:110%">—</span></td>
+    </tr>
+    <tr>
+      <td><span style="font-size:110%"><b>Total</b></span></td>
+      <td><span style="font-size:110%">—</span></td>
+      <td align="right"><span style="font-size:110%"><b>558</b></span></td>
+      <td><span style="font-size:110%">—</span></td>
+    </tr>
+  </tbody>
+</table>
 
 _Last updated: **August 19, 2025**_
 

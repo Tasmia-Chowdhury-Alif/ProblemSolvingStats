@@ -109,61 +109,47 @@ As part of **Phitron’s XPSC (Batch-4)**, I’ve consistently participated in c
 ### 🌐 CP Profiles Quick Access
 
 <p align="center">
-  <a href="https://codeforces.com/profile/alif_222" title="Codeforces">
-    <img
+  <a href="https://codeforces.com/profile/alif_222" title="Codeforces"><img
       src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"
       height="48"
       alt="Codeforces"
       style="background:white;padding:6px;border-radius:8px;"
-    />
-  </a>
+    /></a>
   &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/alif_222" title="CodeChef">
-    <img
+  <a href="https://www.codechef.com/users/alif_222" title="CodeChef"><img
       src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg"
       height="48"
       alt="CodeChef"
       style="background:white;padding:6px;border-radius:8px;"
-    />
-  </a>
+    /></a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/tasmiachowdhuryalif222/" title="LeetCode">
-    <img
+  <a href="https://leetcode.com/u/tasmiachowdhuryalif222/" title="LeetCode"><img
       src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4846kf21ud6joifw1wv.jpg"
       height="48"
       alt="LeetCode"
       style="background:white;padding:6px;border-radius:8px;"
-    />
-  </a>
+    /></a>
   &nbsp;&nbsp;
-  <a href="https://vjudge.net/user/alif_222" title="Vjudge">
-    <img
+  <a href="https://vjudge.net/user/alif_222" title="Vjudge"><img
       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLxdP0idphxUvaRU_FPnvjeUbUC1vMHDJ2g&s"
       height="46"
       alt="Vjudge"
       style="background:white;padding:6px;border-radius:8px;"
-    />
-  </a>
+    /></a>
   &nbsp;&nbsp;
-  <a href="https://cses.fi/user/223072" title="CSES">
-    <img
+  <a href="https://cses.fi/user/223072" title="CSES"><img
       src="https://codeforces.com/predownloaded/f6/f0/f6f0e86fb061ff07cda7c345feb0175382d57a35.png"
       height="46"
       alt="CSES"
       style="background:white;padding:6px;border-radius:8px;"
-    />
-  </a>
+    /></a>
   &nbsp;&nbsp;
-  <a href="https://www.naukri.com/code360/profile/e213415e-b964-47c4-b256-db1b599323a7" title="Coding Ninjas">
-    <img
+  <a href="https://www.naukri.com/code360/profile/e213415e-b964-47c4-b256-db1b599323a7" title="Coding Ninjas"><img
       src="https://rebatecouponcodes.com/wp-content/uploads/2024/02/coding-ninjas-logo-.png"
       height="46"
       alt="CSES"
       style="background:white;padding:6px;border-radius:8px;"
-    />
-  </a>
-
-
+    /></a>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFA6&height=90&section=footer" alt="Footer Wave"/>

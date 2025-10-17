@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=The+Competitive+Programming+Journey+📊;With+Phitron+XPSC+(Batch-4);DSA+in+C%2B%2B+💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=The+Competitive+Programming+Journey+📊;With+Phitron+XPSC+(Batch-4)" alt="Typing SVG" />
 </p>
 
 <p align="center">

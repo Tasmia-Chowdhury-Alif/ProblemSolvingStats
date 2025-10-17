@@ -1,82 +1,172 @@
-# Problem Solving — Stats & Profiles
+<!-- ════════════════════════════════════════════════════════ -->
+<!-- 🌿  My Problem Solving — Stats & Profiles  -->
+<!-- ════════════════════════════════════════════════════════ -->
 
-> Competitive Programming • DSA in C++ • Codeforces | CodeChef | LeetCode | Vjudge | CSES
+<h1 align="center">
+  🧩 My Problem Solving — Stats & Profiles
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=The+Competitive+Programming+Journey+📊;With+Phitron+XPSC+(Batch-4);DSA+in+C%2B%2B+💻" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <b>Competitive Programming • DSA in C++</b><br>
+  <i>Codeforces • CodeChef • LeetCode • Vjudge • CSES</i>
+</p>
+
 
 ---
 
-### My Problem Solving Journey
+### 🛣️ My Problem Solving Journey
 
-I started my DSA journey with C++ in November 2023 and have solved **558+ problems** across Codeforces, CodeChef, LeetCode, Vjudge, CSES, and other platforms.  
-Being part of **Phitron’s XPSC (Batch-4)** helped me stay consistent through contests, reviews, and upsolving.  
-This repository brings together my **problem-solving stats — solve counts, ratings, and profiles — in one place for easy review.**
+I began my **DSA journey in C++** in **November 2023**, and since then, I’ve solved **592+ problems** across multiple competitive programming platforms — including **Codeforces**, **CodeChef**, **LeetCode**, **Vjudge**, and **CSES**.  
+As part of **Phitron’s XPSC (Batch-4)**, I’ve consistently participated in contests, reviews, and upsolving sessions that sharpened my problem-solving mindset.
+
+> 🧠 This repository serves as a transparent and organized record of my **problem-solving growth and performance across platforms**.
 
 ---
 
-<div align="center" style="background-color:#f6f8fa; padding: 15px; border-radius: 10px;">
+<div align="center">
 
-### Problem Solving Stats
+### 📊 Problem Solving Overview
 
 <table>
   <thead>
     <tr>
-      <th align="left"><span style="font-size:120%">Platform</span></th>
-      <th align="left"><span style="font-size:120%">Profile</span></th>
-      <th align="right"><span style="font-size:120%">Solved</span></th>
-      <th align="left"><span style="font-size:120%">Best Rating / Rank</span></th>
+      <th align="left">🌐 Platform</th>
+      <th align="left">👤 Profile</th>
+      <th align="right">🧮 Solved</th>
+      <th align="left">🏅 Best Rating / Rank</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><span style="font-size:120%"><b>Codeforces</b></span></td>
-      <td><span style="font-size:120%"><a href="https://codeforces.com/profile/alif_222">alif_222</a></span></td>
-      <td align="right"><span style="font-size:120%"><b>217</b></span></td>
-      <td><span style="font-size:120%">Highest Rating: 997</span></td>
+      <td><b>Codeforces</b></td>
+      <td><a href="https://codeforces.com/profile/alif_222">alif_222</a></td>
+      <td align="right"><b>217</b></td>
+      <td>Highest Rating: <code>997</code></td>
     </tr>
     <tr>
-      <td><span style="font-size:120%"><b>CodeChef</b></span></td>
-      <td><span style="font-size:120%"><a href="https://www.codechef.com/users/alif_222">alif_222</a></span></td>
-      <td align="right"><span style="font-size:120%"><b>133</b></span></td>
-      <td><span style="font-size:120%"><code><span style="color:#FFD700">2 Star ★★</span></code> (Max: <code>1407</code>)</span></td>
+      <td><b>CodeChef</b></td>
+      <td><a href="https://www.codechef.com/users/alif_222">alif_222</a></td>
+      <td align="right"><b>133</b></td>
+      <td><code>★★ 2 Star</code> (Max: <code>1407</code>)</td>
     </tr>
     <tr>
-      <td><span style="font-size:120%"><b>LeetCode</b></span></td>
-      <td><span style="font-size:120%"><a href="https://leetcode.com/u/tasmiachowdhuryalif222/">tasmiachowdhuryalif222</a></span></td>
-      <td align="right"><span style="font-size:120%"><b>42</b></span></td>
-      <td><span style="font-size:120%"></span></td>
+      <td><b>LeetCode</b></td>
+      <td><a href="https://leetcode.com/u/tasmiachowdhuryalif222/">tasmiachowdhuryalif222</a></td>
+      <td align="right"><b>42</b></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="font-size:120%"><b>Vjudge</b></span></td>
-      <td><span style="font-size:120%"><a href="https://vjudge.net/user/alif_222">alif_222</a></span></td>
-      <td align="right"><span style="font-size:120%"><b>109</b></span></td>
-      <td><span style="font-size:120%"></span></td>
+      <td><b>Vjudge</b></td>
+      <td><a href="https://vjudge.net/user/alif_222">alif_222</a></td>
+      <td align="right"><b>109</b></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="font-size:120%"><b>CSES</b></span></td>
-      <td><span style="font-size:120%"><a href="https://cses.fi/user/223072">alif_222</a></span></td>
-      <td align="right"><span style="font-size:120%"><b>35</b></span></td>
-      <td><span style="font-size:120%"></span></td>
+      <td><b>CSES</b></td>
+      <td><a href="https://cses.fi/user/223072">alif_222</a></td>
+      <td align="right"><b>35</b></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="font-size:120%"><b>Others</b></span></td>
-      <td><span style="font-size:120%"></span></td>
-      <td align="right"><span style="font-size:120%"><b>34+</b></span></td>
-      <td><span style="font-size:120%"></span></td>
+      <td><b>Coding Ninjas</b></td>
+      <td><a href="https://www.naukri.com/code360/profile/e213415e-b964-47c4-b256-db1b599323a7">alif_222</a></td>
+      <td align="right"><b>22</b></td>
+      <td></td>
     </tr>
     <tr>
-      <td><span style="font-size:120%"><b>Total</b></span></td>
-      <td><span style="font-size:120%"></span></td>
-      <td align="right"><span style="font-size:120%"><b>570+</b></span></td>
-      <td><span style="font-size:120%"></span></td>
+      <td><b>Others</b></td>
+      <td></td>
+      <td align="right"><b>34+</b></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>Total</b></td>
+      <td></td>
+      <td align="right"><b>592+</b></td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
-`Last updated: August 19, 2025`
+<sub><i>Last updated: August 19, 2025</i></sub>
 
 </div>
 
 ---
 
-### Notes
-- Solve count is updated manually.  
-- Focus is solely on **transparent problem-solving statistics**.
+### 🧠 Notes
+
+- 📈 Solve counts are **manually updated**.  
+- 🎯 Primary focus: **consistent learning & transparent tracking**.  
+- 🔁 Updated with each contest or notable problem-solving milestone.
+
+---
+
+### 🌐 Quick Access
+
+<p align="center">
+  <a href="https://codeforces.com/profile/alif_222" title="Codeforces">
+    <img
+      src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png"
+      height="48"
+      alt="Codeforces"
+      style="background:white;padding:6px;border-radius:8px;"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/alif_222" title="CodeChef">
+    <img
+      src="https://upload.wikimedia.org/wikipedia/commons/0/08/CodeChef_Logo.svg"
+      height="48"
+      alt="CodeChef"
+      style="background:white;padding:6px;border-radius:8px;"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/tasmiachowdhuryalif222/" title="LeetCode">
+    <img
+      src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fe4846kf21ud6joifw1wv.jpg"
+      height="48"
+      alt="LeetCode"
+      style="background:white;padding:6px;border-radius:8px;"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://vjudge.net/user/alif_222" title="Vjudge">
+    <img
+      src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJLxdP0idphxUvaRU_FPnvjeUbUC1vMHDJ2g&s"
+      height="46"
+      alt="Vjudge"
+      style="background:white;padding:6px;border-radius:8px;"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://cses.fi/user/223072" title="CSES">
+    <img
+      src="https://codeforces.com/predownloaded/f6/f0/f6f0e86fb061ff07cda7c345feb0175382d57a35.png"
+      height="46"
+      alt="CSES"
+      style="background:white;padding:6px;border-radius:8px;"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.naukri.com/code360/profile/e213415e-b964-47c4-b256-db1b599323a7" title="Coding Ninjas">
+    <img
+      src="https://rebatecouponcodes.com/wp-content/uploads/2024/02/coding-ninjas-logo-.png"
+      height="46"
+      alt="CSES"
+      style="background:white;padding:6px;border-radius:8px;"
+    />
+  </a>
+
+
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00BFA6&height=90&section=footer" alt="Footer Wave"/>
+  <br>
+  <b>Keep Solving. Keep Growing.</b> 🚀
+</p>

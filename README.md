@@ -44,13 +44,13 @@ As part of **Phitron’s XPSC (Batch-4)**, I’ve consistently participated in c
     <tr>
       <td><b>Codeforces</b></td>
       <td><a href="https://codeforces.com/profile/alif_222">alif_222</a></td>
-      <td align="right"><b>217</b></td>
+      <td align="right"><a href="https://github.com/Tasmia-Chowdhury-Alif/XPSC-Batch---4-Problem-Solving-Club-/tree/main/CodeForces%20Contests" target="_blank"><b>217</b></a></td>
       <td>Highest Rating: <code>997</code></td>
     </tr>
     <tr>
       <td><b>CodeChef</b></td>
       <td><a href="https://www.codechef.com/users/alif_222">alif_222</a></td>
-      <td align="right"><b>133</b></td>
+      <td align="right"><a href="https://github.com/Tasmia-Chowdhury-Alif/XPSC-Batch---4-Problem-Solving-Club-/tree/main/CodeChef%20Contests" target="_blank"><b>133</b></a></td>
       <td><code>★★ 2 Star</code> (Max: <code>1407</code>)</td>
     </tr>
     <tr>
@@ -62,7 +62,7 @@ As part of **Phitron’s XPSC (Batch-4)**, I’ve consistently participated in c
     <tr>
       <td><b>Vjudge</b></td>
       <td><a href="https://vjudge.net/user/alif_222">alif_222</a></td>
-      <td align="right"><b>109</b></td>
+      <td align="right"><a href="https://github.com/Tasmia-Chowdhury-Alif/XPSC-Batch---4-Problem-Solving-Club-" target="_blank"><b>109</b></a></td>
       <td></td>
     </tr>
     <tr>
@@ -92,7 +92,7 @@ As part of **Phitron’s XPSC (Batch-4)**, I’ve consistently participated in c
   </tbody>
 </table>
 
-<sub><i>Last updated: August 19, 2025</i></sub>
+<sub><i>Last updated: October 17, 2025</i></sub>
 
 </div>
 
@@ -106,7 +106,7 @@ As part of **Phitron’s XPSC (Batch-4)**, I’ve consistently participated in c
 
 ---
 
-### 🌐 Quick Access
+### 🌐 CP Profiles Quick Access
 
 <p align="center">
   <a href="https://codeforces.com/profile/alif_222" title="Codeforces">
